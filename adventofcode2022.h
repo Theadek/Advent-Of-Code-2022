@@ -5,3 +5,4 @@
 #include "adventofcode2022_04.h"
 #include "adventofcode2022_05.h"
 #include "adventofcode2022_06.h"
+#include "adventofcode2022_07.h"
