@@ -9,3 +9,4 @@
 #include "adventofcode2022_08.h"
 #include "adventofcode2022_09.h"
 #include "adventofcode2022_10.h"
+#include "adventofcode2022_11.h"
